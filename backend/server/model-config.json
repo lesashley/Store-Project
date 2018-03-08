@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "Customer": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Products": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Vendors": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Sales": {
+    "dataSource": "db",
+    "public": true
+  }
+}

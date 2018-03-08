@@ -1,0 +1,20 @@
+{
+  "ids": {
+    "Customer": 2,
+    "Products": 1,
+    "Vendors": 5,
+    "Sales": 1
+  },
+  "models": {
+    "Customer": {
+      "1": "{\"customers\":\"Leslie\",\"phone\":\"993004598\",\"name\":\"Le\",\"address\":\"Lima\",\"id\":1}"
+    },
+    "Products": {},
+    "Vendors": {
+      "1": "{\"staff_number\":5,\"name\":\"6\",\"id\":1}",
+      "2": "{\"staff_number\":8,\"name\":\"lees\",\"id\":2}",
+      "3": "{\"staff_number\":99,\"name\":\"lees\",\"id\":3}"
+    },
+    "Sales": {}
+  }
+}

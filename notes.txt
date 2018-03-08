@@ -1,0 +1,40 @@
+customer
+db
+persisy
+yes
+custommers
+comun
+
+
+phone
+string
+no
+
+
+productos tipo array
+
+eleme tip object
+
+chalk
+
+json estructura
+js funcionalidades
+
+patch actualiza los datos que se han cambiado
+
+npm init -y
+
+mkdir crear carpetas
+
+webpack --- empaquetador es para proyectos grandes
+
+rollup -- parecido a webpack
+
+el @ al instalar significa el nombre de una rama
+
+comando -c es de compilar
+
+FORMATOS
+iife
+amd 
+umd
